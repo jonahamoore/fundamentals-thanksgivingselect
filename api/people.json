@@ -1,0 +1,44 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "John Stamos",
+      "age": 58,
+      "favoriteDish": "Sweet Potatoes",
+      "rightHanded": true,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRswV8rkX_9XlysOOUTijtVzzLvvpGHynHcQQ&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "James Bond",
+      "age": 40,
+      "favoriteDish": "Shaken Dirties",
+      "rightHanded": false,
+      "imageUrl": "https://images.immediate.co.uk/production/volatile/sites/3/2020/12/daniel-craig-bond-1d24ba1.jpg?quality=90&resize=620,413"
+    },
+    {
+      "id": 3,
+      "name": "Adele",
+      "age": 33,
+      "favoriteDish": "Sweet Potatoes",
+      "rightHanded": false,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhGQRcW2nVnJNW7rQOayUs5zvVYlqLkZMJIg&usqp=CAU"
+    },
+    {
+      "name": "Magneto",
+      "age": "91",
+      "favoriteDish": "iron tablets",
+      "rightHanded": "true",
+      "imageUrl": "https://res.cloudinary.com/jerrick/image/upload/f_jpg,fl_progressive,q_auto,w_1024/my8hggsineyoairsoltt.jpg",
+      "id": 4
+    },
+    {
+      "name": "Loki",
+      "age": "1,054",
+      "favoriteDish": "Oatmeal Raisin Cookies",
+      "rightHanded": "False",
+      "imageUrl": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2021/05/Comic-And-MCU-Loki.jpg",
+      "id": 5
+    }
+  ]
+}
